@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedansh00Mishra&label=Profile%20views&color=0e75b6&style=flat" alt="Vedansh00Mishra" /> </p>
 
-- 🔭 I’m currently working on **Modern Website Designing**
+- 🔭 I’m currently working on **Modern Website Designing and Full Stack Development**
 
 - 🌱 I’m currently learning **Three.js, MERN Stack, Java Language**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Full Stack Development**
 
 - 📫 How to reach me **vedanshm69@gmail.com**
 
