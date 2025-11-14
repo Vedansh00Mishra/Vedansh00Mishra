@@ -24,6 +24,7 @@
 # 📊 My Github Stats
 
 <br/>
+
 <a href="https://github.com/Vedansh00Mishra/github-readme-stats">
   <img alt="Vedansh's Github Stats" 
        src="https://githubreadme-pi.vercel.app/api?username=Vedansh00Mishra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -44,5 +45,4 @@
        src="https://activity-graph.herokuapp.com/graph?username=Vedansh00Mishra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=arun-kushwaha04&row=1&no-bg=true)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Vedansh00Mishra&row=1&no-bg=true)
