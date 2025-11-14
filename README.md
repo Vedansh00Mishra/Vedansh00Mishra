@@ -23,17 +23,26 @@
 
 # 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Vedansh00Mishra/github-readme-stats"><img alt="Vedansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vedansh00Mishra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Vedansh00Mishra/github-readme-stats"><img alt="Vedansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedansh00Mishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<a href="https://github.com/Vedansh00Mishra/github-readme-stats">
+  <img alt="Vedansh's Github Stats" 
+       src="https://githubreadme-pi.vercel.app/api?username=Vedansh00Mishra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
+<a href="https://github.com/Vedansh00Mishra/github-readme-stats">
+  <img alt="Vedansh's Top Languages" 
+       src="https://githubreadme-pi.vercel.app/api/top-langs/?username=Vedansh00Mishra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 <br/>
-<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/Vedansh00Mishra/github-readme-activity-graph"><img alt="Vedansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vedansh00Mishra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/><br/>
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=arun-kushwaha04&row=1&no-bg=true)
+<a href="https://github.com/Vedansh00Mishra/github-readme-activity-graph">
+  <img alt="Vedansh's Activity Graph" 
+       src="https://activity-graph.herokuapp.com/graph?username=Vedansh00Mishra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=arun-kushwaha04&row=1&no-bg=true)
 
