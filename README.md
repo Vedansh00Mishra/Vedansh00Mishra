@@ -41,8 +41,6 @@
 
 ## 🚀 Contribution Graph
 
-> The old `herokuapp` graph is dead. This one works:
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh00Mishra&theme=react-dark&hide_border=true" />
 </p>
