@@ -35,8 +35,6 @@
   </a>
 </p>
 
-**Note:** Top languages only reflect the languages used in public repositories, not skill level.
-
 ---
 
 ## 🚀 Contribution Graph
