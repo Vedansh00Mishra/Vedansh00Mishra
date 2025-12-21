@@ -23,13 +23,16 @@
 
 # 📊 My GitHub Stats
 
- <p align="center">
-    <a href="https://github.com/Vedansh00Mishra/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedansh00Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedansh00Mishra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vedansh00Mishra&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vedansh00Mishra&theme=react&hide_border=true&background=0D1117" 
+    height="165"
+  />
 </p>
-
----
 
 ## 🚀 Contribution Graph
 
